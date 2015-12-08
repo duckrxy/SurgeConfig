@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SurgeConfig", "SurgeConfig", "{F57B15E9-9C4C-4F4E-8B87-3A740EDE116E}"
 	ProjectSection(SolutionItems) = preProject
 		main.conf = main.conf
+		main_aws_oregon.conf = main_aws_oregon.conf
 		SSEncrypt.module = SSEncrypt.module
 	EndProjectSection
 EndProject
